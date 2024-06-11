@@ -4,4 +4,4 @@
 - From inspiration from the Wizarding World of Harry Website, I decided to create one for Stranger things since there isn't really one out there, and I needed to bring my imagination to life.
 - Primary Technologies: HTML, CSS, JavaScript (as of right now)
 - Contains a navbar, using HTML elements to group the slider and using JavaScript for the arrow feature.
-- Further Implmentation includes a character quiz, more characters, and a possible of linking a DnD project I created in C++ since the show is based around C++.
+- Further Implmentation includes a character quiz, more characters, and a possible of linking a DnD project I created in C++ since the show is based around DND.
