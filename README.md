@@ -17,3 +17,4 @@
 - Primary Technologies: HTML, CSS, JavaScript (as of right now)
 - Contains a navbar, using HTML elements to group the slider and using JavaScript for the arrow feature.
 - Further Implmentation includes a character quiz, more characters, and a possible of linking a DnD project I created in C++ since the show is based around DND.
+- Further Developments: Adding most to all characters, creating a quiz 
